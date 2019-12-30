@@ -1,0 +1,1 @@
+<https://atcoder.jp/contests/tenka1-2019-beginner>

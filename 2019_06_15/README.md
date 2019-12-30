@@ -1,0 +1,1 @@
+<https://atcoder.jp/contests/diverta2019-2>
