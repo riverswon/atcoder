@@ -1,9 +1,9 @@
 #include <bits/stdc++.h>
- 
+
 using namespace std;
 
 #define vd vector<double>
- 
+
 typedef long long ll;
 #define vi vector<int>
 #define vl vector<ll>
@@ -36,7 +36,7 @@ int dx[4] = { -1,0, 1,0 }, dy[4] = { 0,1,0,-1 };
 int dx2[8] = { 1,1,0,-1,-1,-1,0,1 }, dy2[8] = { 0,1,1,1,0,-1,-1,-1 };
 // #define mp make_pair
 //#define endl '\n'
- 
+
 int main() {
     int ans;
     cin >> ans;
